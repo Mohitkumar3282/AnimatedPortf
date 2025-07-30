@@ -74,30 +74,41 @@ useGSAP(()=>{
     </div>
   </div>
 
+
+
+
+
+
+ <div className="project-card-wrapper">
+    <Card title="ANIMATED-PORTFOLIO" image={p} />
+    <div className="project-links">
+      <a href="https://github.com/Mohitkumar3282/AnimatedPortf" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://animated-portf-w2ia.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
+    </div>
+  </div>
+
+
+
+  
+
   <div className="project-card-wrapper">
     <Card title="ECOMMERCE-WEBSITE" image={ecom} />
     <div className="project-links">
-      <a href="https://github.com/Mohitkumar3282" target="_blank" rel="noopener noreferrer">GitHub</a>
-      <a href="https://ecommerce-site.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+      <a href="https://github.com/Mohitkumar3282/New-Ecom" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://mrs-fronted-2scpc7cts-mohitkumar3282s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </div>
   </div>
 
 
-  <div className="project-card-wrapper">
-    <Card title="ANIMATED-PORTFOLIO" image={p} />
-    <div className="project-links">
-      <a href="https://github.com/Mohitkumar3282/" target="_blank" rel="noopener noreferrer">GitHub</a>
-      <a href="https://ecommerce-site.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
-    </div>
-  </div>
+ 
 
-   <div className="project-card-wrapper">
+   {/* <div className="project-card-wrapper">
     <Card title="Ai-codeReviewer" image={cb} />
     <div className="project-links">
-      <a href="https://github.com/yourusername/ecommerce-website" target="_blank" rel="noopener noreferrer">GitHub</a>
-      <a href="https://ecommerce-site.vercel.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
+      <a href="https://github.com/Mohitkumar3282" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://ecommerce-site" target="_blank" rel="noopener noreferrer">Live Demo</a>
     </div>
-  </div>
+  </div> */}
 
   {/* <div className="project-card-wrapper">
     <Card title="ECOMMERCE-WEBSITE" image={ecom} />
