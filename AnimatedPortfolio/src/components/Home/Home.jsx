@@ -53,7 +53,7 @@ useGSAP(()=>{
     {/* <button>HIRE ME</button> */}
     <div className="home-buttons">
   <a href="#contact" className="hire-btn">Hire Me</a>
-  <a href="/MohitKumar_Resume.pdf" download className="resume-btn">Download Resume</a>
+  <a href="\MohitKumar_Resume (3).pdf" download className="resume-btn">Download Resume</a>
 </div>
 
 
